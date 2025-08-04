@@ -1,0 +1,5 @@
+student details
+NAME: Thutika Pravallika
+AGE: 19
+COLLEGE: Aditya Degree College,Gajuwaka
+Mobile no: 9390253400
