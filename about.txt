@@ -1,0 +1,3 @@
+NAME: Pravalika
+COURSE: Bsc-computers
+CERTIFICATES: Cisco,Mipro pearson
